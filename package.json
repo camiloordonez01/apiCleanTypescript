@@ -1,0 +1,8 @@
+{
+  "name": "apiCleanTypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/camiloordonez01/apiCleanTypescript.git",
+  "author": "Camilo Ordoñez <orarjuan@hotmail.com>",
+  "license": "MIT"
+}
